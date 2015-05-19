@@ -2,8 +2,7 @@
 
 SQLite Demo for Meteor in Mobile
 
------
-# 注意
+## 注意
 
 ![image](screenshot1.png)
 
@@ -12,22 +11,20 @@ SQLite Demo for Meteor in Mobile
 
 若您要发表评论或提交问题，[请戳这里](https://github.com/MeteorChina/MeteorDemo/issues)
 
------
-# 使用的包
+## 使用的包
 
 $ meteor list
 
-autopublish                            1.0.3  Publish the entire database to ...
+- autopublish                            1.0.3  Publish the entire database to ...
 
-cordova:io.litehelpers.cordova.sqlite  0.7.7
+- cordova:io.litehelpers.cordova.sqlite  0.7.7
 
-insecure                               1.0.3  Allow all database writes by de...
+- insecure                               1.0.3  Allow all database writes by de...
 
-meteor-platform                        1.2.2  Include a standard set of Meteo...
+- meteor-platform                        1.2.2  Include a standard set of Meteo...
 
 
------
-# 下载
+## 下载
 
 下载源代码：[请戳这里](https://github.com/MeteorChina/MeteorDemo/archive/master.zip)
 
