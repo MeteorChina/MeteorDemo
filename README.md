@@ -5,8 +5,7 @@ Meteor Demo via Chinese Language
 -----
 ## 数据库
 
-- 在移动设备上使用Meteor操作SQLite示例程序 ：[请戳这里](https://github.com/MeteorChina/MeteorDemo/archive/master.zip) SQLite Demo for Meteor in Mobile
-
+- [在移动设备上使用Meteor操作SQLite示例程序，SQLite Demo for Meteor in Mobile](SQLiteDemo/) 
 
 
 -----
