@@ -1,4 +1,4 @@
-# Meteor 常用示例程序中文版
+# Meteor中文版示例程序
 
 Meteor Demo via Chinese Language
 
