@@ -10,18 +10,18 @@ Local Media Demo for Meteor on Mobile Device
 - 支持锁屏后台播放，使用包：cordova:de.appplant.cordova.plugin.background-mode
 - 服务器端代码更新后不会中断播放，待APP重启时才会更新APP，使用包：mdg:reload-on-resume
 
-## 截图
 
-![image](screenshot1.png)
+## 截图
 
 ![image](screenshot2.png)
 
+![image](screenshot1.png)
 
-若您要发表评论或提交问题，[请戳这里](https://github.com/MeteorChina/MeteorDemo/issues)
 
 ## 使用的包
 
 	$ meteor list
+
 	autopublish                                         1.0.3  Publish the entire database to all clients
 	cordova:de.appplant.cordova.plugin.background-mode  0.6.4
 	cordova:org.apache.cordova.media                    0.2.16
@@ -43,5 +43,7 @@ Local Media Demo for Meteor on Mobile Device
 - https://github.com/katzer/cordova-plugin-background-mode
 - https://atmospherejs.com/mdg/reload-on-resume
 
+
+若您要发表评论或提交问题，[请戳这里](https://github.com/MeteorChina/MeteorDemo/issues)
 
 [dyh](https://github.com/dyh) 说：助人乃快乐之本！  ^_______^
