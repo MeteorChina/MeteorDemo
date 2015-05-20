@@ -13,15 +13,12 @@ SQLite Demo for Meteor on Mobile Device
 
 ## 使用的包
 
-$ meteor list
+	$ meteor list
 
-- autopublish                            1.0.3  Publish the entire database to ...
-
-- cordova:io.litehelpers.cordova.sqlite  0.7.7
-
-- insecure                               1.0.3  Allow all database writes by de...
-
-- meteor-platform                        1.2.2  Include a standard set of Meteo...
+	autopublish                            1.0.3  Publish the entire database to ...
+	cordova:io.litehelpers.cordova.sqlite  0.7.7
+	insecure                               1.0.3  Allow all database writes by de...
+	meteor-platform                        1.2.2  Include a standard set of Meteo...
 
 
 ## 下载

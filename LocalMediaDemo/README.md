@@ -21,14 +21,13 @@ Local Media Demo for Meteor on Mobile Device
 
 ## 使用的包
 
-$ meteor list
-
-    autopublish                                         1.0.3  Publish the entire database to all clients
-    cordova:de.appplant.cordova.plugin.background-mode  0.6.4
-    cordova:org.apache.cordova.media                    0.2.16
-    insecure                                            1.0.3  Allow all database writes by default
-    mdg:reload-on-resume                                1.0.4  On Cordova, only allow the app to reload when the app
- 	meteor-platform                                     1.2.2  Include a standard set of Meteor packages in your app
+	$ meteor list
+	autopublish                                         1.0.3  Publish the entire database to all clients
+	cordova:de.appplant.cordova.plugin.background-mode  0.6.4
+	cordova:org.apache.cordova.media                    0.2.16
+	insecure                                            1.0.3  Allow all database writes by default
+	mdg:reload-on-resume                                1.0.4  On Cordova, only allow the app to reload when the app
+	meteor-platform                                     1.2.2  Include a standard set of Meteor packages in your app
 
 
 
