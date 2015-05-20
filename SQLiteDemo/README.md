@@ -1,6 +1,6 @@
-# 在移动设备上使用Meteor操作SQLite示例程序 
+# 移动设备 - 操作SQLite示例程序 
 
-SQLite Demo for Meteor in Mobile
+SQLite Demo for Meteor on Mobile Device
 
 ## 注意
 

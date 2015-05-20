@@ -3,12 +3,19 @@
 </head>
 
 <body>
-  <h1>Welcome to Meteor!</h1>
-
+  <h1>本地媒体示例</h1>
+  <h2>播放本地音频</h2>
+  <h2>支持锁屏后台播放</h2>
+  <h2>服务器端代码更新后不会中断播放，待APP重启时才会更新APP</h2>
   {{> hello}}
 </body>
 
 <template name="hello">
-  <button>Click Me</button>
-  <p>You've pressed the button {{counter}} times.</p>
+  <p><button class="init_audio">初始化音频</button></p>
+  <p><button class="play_audio">开始播放</button></p>
+  <p><button class="pause_audio">暂停播放</button></p>
+  <p><button class="stop_audio">停止播放</button></p>
+  <p><button class="get_position">获得播放进度和总时长</button></p>
+  <p><button class="fast_dorward">快进</button></p>
+
 </template>
