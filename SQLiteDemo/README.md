@@ -28,5 +28,11 @@ $ meteor list
 
 下载源代码：[请戳这里](https://github.com/MeteorChina/MeteorDemo/archive/master.zip)
 
+
+## 感谢
+
+- https://github.com/litehelpers/Cordova-sqlite-storage
+
+
 -----
 [dyh](https://github.com/dyh) 说：助人乃快乐之本！  ^_______^
