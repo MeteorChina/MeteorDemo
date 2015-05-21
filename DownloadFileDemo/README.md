@@ -1,6 +1,6 @@
 # 移动设备 - 文件下载示例程序
 
-Local Media Demo for Meteor on Mobile Device
+File Download Demo for Meteor on Mobile Device
 
 
 ## 注意
@@ -8,7 +8,9 @@ Local Media Demo for Meteor on Mobile Device
 - 必须要包括mobile-config.js文件，否则将返回 ERROR whitelist rejection 401错误
 - mobile-config.js文件内容如下
 
+
 	App.accessRule("*");
+
 
 
 ## 简介
@@ -43,7 +45,7 @@ Local Media Demo for Meteor on Mobile Device
 
 - https://github.com/apache/cordova-plugin-file
 - https://github.com/apache/cordova-plugin-file-transfer/
-- （需要翻墙） http://www.html5rocks.com/en/tutorials/file/filesystem/
+- 需要翻墙 http://www.html5rocks.com/en/tutorials/file/filesystem/
 
 
 若您要发表评论或提交问题，[请戳这里](https://github.com/MeteorChina/MeteorDemo/issues)
