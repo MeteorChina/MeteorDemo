@@ -5,8 +5,9 @@ File Download Demo for Meteor on Mobile Device
 
 ## 注意
 
-- 必须要包括mobile-config.js文件，否则将返回 ERROR whitelist rejection 401错误
-- mobile-config.js文件内容如下
+必须要包括mobile-config.js文件，否则将返回 ERROR whitelist rejection 401错误
+
+mobile-config.js文件内容如下
 
 
 	App.accessRule("*");
