@@ -4,10 +4,32 @@ SQLite Demo for Meteor on Mobile Device
 
 ## 注意
 
-![image](screenshot1.png)
+### iOS
 
-在iOS中，数据库文件必须放在www目录下。
-在Xcode中，先将数据库文件放在Meteor项目的 “/Staging/www/” 目录下，然后部署程序即可。
+![image](screenshot/screenshot1.png)
+
+在iOS设备中，数据库文件必须位于"/SQLiteDemo.app/www/"目录下。
+
+所以，在Xcode中，先将数据库文件放在Meteor项目的 “/Staging/www/” 目录下，然后用XCode部署程序到iPhone即可。
+
+
+
+### Android
+
+![image](screenshot/screenshot2.png)
+
+![image](screenshot/screenshot3.png)
+
+在Android设备中，我没找到/www/目录 T_T，不知道数据库文件是从哪里被拷贝到"/data/data/com.id5mwhcwij7spvel5h8/databases/"目录下的。
+
+- 在eclipse中，Import|导入SQLiteDemo和CordovaApp-CordovaLib两个Android项目，因为《.meteor》文件夹是隐藏文件夹，很难在打开文件夹窗口看到，原谅我吧，我忘记是怎么定位到的了。。。
+
+- 导入项目后，在eclipse中展开/SQLiteDemo/assets/目录，发现只有一个 _where-is-www.txt 文件，是因为工程将 /www/目录从assets目录中排除了。需要 在eclipse上方的菜单 Project->Properties->左侧Resource->Resource Filters->右侧窗口中的两项都删除掉，这里看图比较直观。
+
+- 删除Resource Filters里面的内容后，会发现www目录在assets目录中显示了。在Finder中找到bible.db文件，command+c 复制，在eclipse的"\assets\www\"目录上 command+v 将bible.db文件粘贴上去。
+
+- 用eclipse部署程序到Android设备，可能会提示无法启动adb，可以用"活动监视器"将adb进程结束掉，再重启eclipse，即可正常部署和启动程序了。
+
 
 
 ## 使用的包
