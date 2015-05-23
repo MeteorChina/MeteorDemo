@@ -21,7 +21,10 @@ File Download Demo for Meteor on Mobile Device
 
 ## 截图
 
-![image](screenshot1.png)
+![image](/screenshot/screenshot1.png)
+
+![image](/screenshot/screenshot2.png)
+
 
 
 ## 使用的包

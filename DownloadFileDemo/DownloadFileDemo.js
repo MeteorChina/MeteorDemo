@@ -7,6 +7,7 @@ if (Meteor.isClient) {
 
       'click .download':function(){
 
+
           //文件在服务器上的路径
           var uri = encodeURI("http://biblevoice.oss-cn-hangzhou.aliyuncs.com/cuv/创世记第1章.mp3");
 
