@@ -1,0 +1,12 @@
+<template name="fileItem">
+	<div class="item">
+		{{#if isFolder}} 
+			<i class="folder icon"></i>
+		{{else}} 
+			<i class="file text icon"></i>
+		{{/if}}
+		<div class="content">
+			<div class="header">{{fileName}}</div>
+		</div>
+	</div>
+</template>

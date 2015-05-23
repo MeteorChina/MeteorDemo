@@ -1,0 +1,26 @@
+<template name="fileManager">
+
+	<div class="ui button ev-root-dir">根目录</div>
+	<div class="ui button ev-mode">打开模式</div>
+	<div class="ui button ev-create-file">新建文件music/jazz/5.mp3</div>
+	<div class="ui button ev-delete-file">删除文件music/jazz/5.mp3</div>
+
+	<hr>
+	<div class="ui small label">
+		当前目录：{{currPath}}
+	</div>
+
+	<div id="fileList" class="ui selection list">
+		<div class="item ev-go-back">
+			<i class="folder open icon"></i>
+			<div class="content">
+				<div class="header">..</div>
+			</div>
+		</div>
+
+		{{#each fileList}}
+		{{> fileItem}}
+		{{/each}}
+	</div>
+
+</template>
