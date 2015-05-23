@@ -13,14 +13,14 @@ Local Media Demo for Meteor on Mobile Device
 
 ## 注意
 
-### iOS
+### iOS路径
 
 - 播放www目录下的文件 "application/voice/1-1.mp3"
 
 - 播放documents目录下的文件 "documents://voice/1-1.mp3"
 
 
-### Android
+### Android路径
 
 - 尽量使用绝对路径
 
