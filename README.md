@@ -1,6 +1,6 @@
 # Meteor中文版示例程序
 
-Meteor Demo via Chinese Language
+Meteor Demo in Chinese
 
 下载源代码：[请戳这里](https://github.com/MeteorChina/MeteorDemo/archive/master.zip)
 
@@ -25,3 +25,5 @@ Meteor Demo via Chinese Language
 若您要发表评论或提交问题，[请戳这里](https://github.com/MeteorChina/MeteorDemo/issues)
 
 [dyh](https://github.com/dyh) 说：助人乃快乐之本！  ^_______^
+
+Copyright MCC.
