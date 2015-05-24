@@ -20,7 +20,7 @@ SQLite Demo for Meteor on Mobile Device
 
 ![image](screenshot/screenshot3.png)
 
-在Android设备中，数据库文件必须位于"/data/app/com.id5mwhcwij7spvel5h8/assets/www/"目录下，然后会被拷贝到"/data/data/com.id5mwhcwij7spvel5h8/databases/"目录下。
+在Android设备中，数据库文件必须位于"/data/app/com.id5mwhcwij7spvel5h8.apk/assets/www/"目录下，然后会被拷贝到"/data/data/com.id5mwhcwij7spvel5h8/databases/"目录下。
 
 - 在eclipse中，Import|导入SQLiteDemo和CordovaApp-CordovaLib两个Android项目，因为《.meteor》文件夹是隐藏文件夹，很难在打开文件夹窗口看到，原谅我吧，我真的忘记是如何找到的了。。。
 
