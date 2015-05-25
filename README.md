@@ -19,6 +19,7 @@ Meteor Demo in Chinese
 
 - [移动设备 - 文件下载示例程序 | File Download Demo for Meteor on Mobile Device](DownloadFileDemo/)
 - [移动设备 - 本地文件操作示例程序 | Local File Operation Demo for Meteor on Mobile Device](FileOperationDemo/)
+- [移动设备 - 文件拷贝示例程序 | Copying File Demo for Meteor on Mobile Device](CopyFileDemo/)
 
 
 
