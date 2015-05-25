@@ -43,7 +43,7 @@ Copying File Demo for Meteor on Mobile Device
 
 ## 使用的包
 
-	meteor list
+	$ meteor list
 
 	autopublish                      1.0.3  Publish the entire database to all cl...
 	cordova:org.apache.cordova.file  1.3.3
