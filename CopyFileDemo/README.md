@@ -18,7 +18,7 @@ Copying File Demo for Meteor on Mobile Device
 - 使用包 https://github.com/apache/cordova-plugin-file/
 
 
-## 文件操作 错误代码
+## 错误代码
 
 	Code	Constant
 	1	NOT_FOUND_ERR
