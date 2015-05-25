@@ -14,6 +14,7 @@ File Download Demo for Meteor on Mobile Device
 
 ## 简介
 
+- 支持Android和iOS
 - 从网络下载mp3文件到移动设备的Documents目录
 - 使用包 https://github.com/apache/cordova-plugin-file-transfer/
 - 使用包 https://github.com/apache/cordova-plugin-file/

@@ -5,7 +5,8 @@ Copying File Demo for Meteor on Mobile Device
 
 ## 注意
 
-- 本示例暂不支持Android
+- 本示例暂时只支持iOS
+- 本示例暂时不支持Android
 - 因为org.apache.cordova.file@1.3.3有bug：https://issues.apache.org/jira/browse/CB-6428
 - 新版本的cordova-plugin-file@2.0.0，我不知道该如何用到meteor中，https://forums.meteor.com/t/how-to-add-cordova-plugin-file-ver-2-0-0-to-my-meteor-project-notice-it-is-not-org-apache-cordova-file/4821/1
 - 待我弄清后，会及时更新
@@ -14,6 +15,7 @@ Copying File Demo for Meteor on Mobile Device
 
 ## 简介
 
+- 目前只支持iOS
 - 将文件 /www/application/1-1.mp3 拷贝到 /Documents/1-1.mp3
 - 使用包 https://github.com/apache/cordova-plugin-file/
 

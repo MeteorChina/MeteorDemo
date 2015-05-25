@@ -5,6 +5,7 @@ Local Media Demo for Meteor on Mobile Device
 
 ## 简介
 
+- 支持Android和iOS
 - 可以播放www目录下的文件
 - 可以播放documents目录下的文件
 - 支持锁屏后台播放，使用包：cordova:de.appplant.cordova.plugin.background-mode

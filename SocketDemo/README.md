@@ -5,9 +5,9 @@ Socket Demo for Meteor on Mobile Device
 
 ## 简介
 
-- 使用cordova:org.chromium.sockets.tcp获取web服务器的html
+- 支持Android和iOS
+- 使用socket获取web服务器的html
 - 使用包 cordova:org.chromium.sockets.tcp@1.3.2
-- 同时支持Android和iOS
 
 
 ## 截图
