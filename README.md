@@ -13,6 +13,7 @@ Meteor Demo in Chinese
 ## 媒体 | Media
 
 - [移动设备 - 本地媒体操作示例程序 | Local Media Demo for Meteor on Mobile Device](LocalMediaDemo/)
+- [移动设备 - 录音机示例程序 | Sound Recorder Demo for Meteor on Mobile Device](SoundRecorderDemo/)
 
 
 ## 文件 | File
