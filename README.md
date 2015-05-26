@@ -28,7 +28,7 @@ Meteor Demo in Chinese
 - [移动设备 - 套接字示例程序 | Socket Demo for Meteor on Mobile Device](SocketDemo/)
 
 
-## 其他
+## 碎碎念
 
 若您要发表评论或提交问题，[请戳这里](https://github.com/MeteorChina/MeteorDemo/issues)
 
