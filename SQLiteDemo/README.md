@@ -10,7 +10,7 @@ SQLite Demo for Meteor on Mobile Device
 
 在iOS设备中，数据库文件必须位于"/SQLiteDemo.app/www/"目录下。
 
-所以，在Xcode中，先将数据库文件放在Meteor项目的 “/Staging/www/” 目录下，然后用XCode部署程序到iPhone即可。
+所以，在Xcode中，先将数据库文件放在Meteor项目的 “/Staging/www/” 目录下，鼠标右键 -> Add Files to "www"...，然后用XCode部署程序到设备即可。
 
 
 
