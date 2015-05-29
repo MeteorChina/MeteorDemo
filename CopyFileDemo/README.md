@@ -8,8 +8,8 @@ Copying File Demo for Meteor on Mobile Device
 - 本示例暂时只支持iOS
 - 本示例暂时不支持Android
 - 因为org.apache.cordova.file@1.3.3有bug：https://issues.apache.org/jira/browse/CB-6428
-- 新版本的cordova-plugin-file@2.0.0，我不知道该如何用到meteor中，https://forums.meteor.com/t/how-to-add-cordova-plugin-file-ver-2-0-0-to-my-meteor-project-notice-it-is-not-org-apache-cordova-file/4821/1
-- 待我弄清后，会及时更新
+- 新版本的cordova-plugin-file@2.0.0，暂时无法引用到meteor中：https://forums.meteor.com/t/how-to-add-cordova-plugin-file-ver-2-0-0-to-my-meteor-project-notice-it-is-not-org-apache-cordova-file/4821/1
+- 待Meteor支持后，会及时更新
 
 
 
