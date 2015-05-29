@@ -9,7 +9,7 @@ Aliyun OSS Demo for Meteor on Mobile Device
 
 因为插件cordova:org.chromium.sockets.tcp@1.3.2在Android下有bug，无法发送大于7200字节的数据。
 
-我们已经提交了pull request："https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-sockets-tcp/pull/2/files"
+我们已经 pull request："https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-sockets-tcp/pull/2/files"
 
 
 
