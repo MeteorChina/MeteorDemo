@@ -7,10 +7,8 @@ Aliyun OSS Demo for Meteor on Mobile Device
 
 在Android下运行，需要用Eclipse手动将此Demo根目录中的"ChromeSocketsTcp.java"文件，替换掉Android工程中的"AliyunOSSDemo/.meteor/local/cordova-build/platforms/android/src/org/chromiumChrome/SocketsTcp.java"文件。
 
-因为插件cordova:org.chromium.sockets.tcp@1.3.2在Android下有bug，无法发送大于7200字节的数据。
-
-我们已经 pull request："https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-sockets-tcp/pull/2/files"
-
+因为插件cordova:org.chromium.sockets.tcp@1.3.2在Android下有bug，无法发送大于7200字节的数据，已在1.3.4版本修正。
+https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-sockets-tcp/pull/2
 
 
 ## 简介
