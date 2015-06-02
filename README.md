@@ -28,9 +28,16 @@ Meteor Demo in Chinese
 - [移动设备 - 套接字示例程序 | Socket Demo for Meteor on Mobile Device](SocketDemo/)
 
 
+## 浏览器 | Browser
+
+- [移动设备 - 打开外链示例程序 | InAppBrowser Demo for Meteor on Mobile Device](InAppBrowserDemo/)
+
+
 ## 阿里云 | Aliyun
 
 - [移动设备 - 阿里云 Aliyun OSS示例程序 | Aliyun OSS Demo for Meteor on Mobile Device](AliyunOSSDemo/)
+
+
 
 
 ## 碎碎念 | SuiSuiNian

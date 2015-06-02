@@ -1,6 +1,6 @@
 # 移动设备 - 打开外链示例程序
 
-In App Browser Demo for Meteor on Mobile Device
+InAppBrowser Demo for Meteor on Mobile Device
 
 
 ## 简介
