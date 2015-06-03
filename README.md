@@ -26,6 +26,7 @@ Meteor Demo in Chinese
 ## 网络 | Network
 
 - [移动设备 - 套接字示例程序 | Socket Demo for Meteor on Mobile Device](SocketDemo/)
+- [短信发送验证码示例程序 | Send SMS Demo for Meteor on Mobile Device](SendSMSDemo/)
 
 
 ## 浏览器 | Browser
@@ -36,7 +37,6 @@ Meteor Demo in Chinese
 ## 阿里云 | Aliyun
 
 - [移动设备 - 阿里云 Aliyun OSS示例程序 | Aliyun OSS Demo for Meteor on Mobile Device](AliyunOSSDemo/)
-
 
 
 
