@@ -1,6 +1,6 @@
 # 短信发送验证码示例程序
 
-Send SMS Demo for Meteor on Mobile Device
+Send SMS Demo for Meteor
 
 
 ## 简介
