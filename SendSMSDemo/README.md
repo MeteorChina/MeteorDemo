@@ -7,7 +7,7 @@ Send SMS Demo for Meteor
 
 - 支持Web、Android和iOS
 - 客户端请求服务器方法发送短信
-- 服务器端使用HTTP.call调用云片网http://www.yunpian.com/的短信API接口发送短信
+- 服务器端使用HTTP.call调用[云片网](http://www.yunpian.com/)的短信API接口发送短信
 - 使用meteor的包http
 
 
