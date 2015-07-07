@@ -45,5 +45,3 @@ Meteor Demo in Chinese
 若您要发表评论或提交问题，[请戳这里](https://github.com/MeteorChina/MeteorDemo/issues)
 
 [dyh](https://github.com/dyh) 说：助人乃快乐之本！  ^_______^
-
-Copyright MCC.
