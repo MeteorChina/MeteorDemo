@@ -1,6 +1,6 @@
-# Meteor中文版示例程序
+# Meteor Cordova 移动APP 中文版示例程序
 
-Meteor Demo in Chinese
+Meteor Cordova Mobile APP Demo in Chinese
 
 下载源代码：[请戳这里](https://github.com/MeteorChina/MeteorDemo/archive/master.zip)
 
